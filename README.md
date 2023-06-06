@@ -1,2 +1,2 @@
-# weather-forecasting
-The main objectives of this project are to analyze temperature data, implement the ARIMA model, and forecast future temperatures. The focus is specifically on Bangkok, Thailand, providing insights into temperature trends for the city.
+# Weather forecasting of average temperatures in Bangkok, Thailand
+The main objectives of this project are to analyze temperature data, implement the ARIMA model, and forecast future temperatures. The focus is specifically on Bangkok, Thailand, I was born and brought up in this country, so this is a particularly important topic for me to investigate. I will be providing insights into temperature trends for the city.
